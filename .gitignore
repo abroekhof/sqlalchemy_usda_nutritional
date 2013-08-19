@@ -2,3 +2,5 @@
 *.pdf
 
 *.pyc
+
+.DS_Store
